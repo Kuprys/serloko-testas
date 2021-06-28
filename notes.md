@@ -4,7 +4,7 @@
         - index.html
         -.gitignore
 - [x] paviesinti prjekta per github (gausim URL)
-- [ ] README.MD
+- [ ] README.md
     - SKIRT APRASYTI KAS KA IR KODEL DARO
     - iterpti nuoroda i daroma dizaina
     - iterpti nuoroda, kurtas musu kodas gali buti pamatytas
