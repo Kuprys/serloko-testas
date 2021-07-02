@@ -4,15 +4,15 @@
         - index.html
         -.gitignore
 - [x] paviesinti prjekta per github (gausim URL)
-- [ ] README.md
+- [x] README.md
     - SKIRT APRASYTI KAS KA IR KODEL DARO
     - iterpti nuoroda i daroma dizaina
     - iterpti nuoroda, kurtas musu kodas gali buti pamatytas
-- [ ] atlikti dizaino analize (penki elementai, centruotas )
-- [ ] surasyti HTML
-- [ ] issikiprti nuotraukas ir jas panaudoti 
+- [x] atlikti dizaino analize (penki elementai, centruotas )
+- [x] surasyti HTML
+- [x] issikiprti nuotraukas ir jas panaudoti 
     - panaudoti reliatyvius kelius
-- [ ] aprasyti stilius 
+- [x] aprasyti stilius 
 
 # pasiskaitymui 
 
