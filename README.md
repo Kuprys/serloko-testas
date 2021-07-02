@@ -9,7 +9,7 @@ _30 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://front-end-by-rimantas.github.io/30-grupe-serlokas/
+Site published at https://kuprys.github.io/serloko-testas/
 
 Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850246157619298324/404-Web-Page-Design-Examples-6.png)
 
