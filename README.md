@@ -5,9 +5,9 @@
 
 # Serlokas
 
-_30 group website project_
+ _website project_
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+This project is for educational porpuses only. Pull request are welcome.
 
 Site published at https://kuprys.github.io/serloko-testas/
 
